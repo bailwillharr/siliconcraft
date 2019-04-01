@@ -23,6 +23,7 @@ Thumbs.db
 #Vim backups
 *~
 #eclipse stuffs
+/eclipse
 /.classpath
 /.project
 /.settings/
